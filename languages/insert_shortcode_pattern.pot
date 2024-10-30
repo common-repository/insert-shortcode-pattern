@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: insert-shortcode-pattern\n"
+"Last-Translator: 3vweb <mail@3v-web.ru>\n"
+"Language-Team: insert shortcode pattern\n"
+"Language: en_US\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Description of the plugin/theme
+msgid "This plugin allows you to create templates and insert the specified text on the page using a short code. As a placement, you can specify the basement of the site, or in the place of insertion of a short code on the page. As a template, you can use any HTML tags (including javascript) without violating the integrity, as well as PHP code."
+msgstr ""
+
+msgid "The required «name» parameter is not passed"
+msgstr ""
+
+msgid "Key «%s» not found :("
+msgstr ""
+
+msgid "Security check failed, please try again"
+msgstr ""
+
+msgid "Only English letters and numbers are allowed in the «Unique name» field"
+msgstr ""
+
+msgid "This name already exists, create a unique name"
+msgstr ""
+
+msgid "Unable to write file, please try again"
+msgstr ""
+
+msgid "Saved"
+msgstr ""
+
+msgid "Error"
+msgstr ""
+
+msgid "Add a new"
+msgstr ""
+
+msgid "Unique name"
+msgstr ""
+
+msgid "Only English letters, numbers and signs are allowed «-»"
+msgstr ""
+
+msgid "Specified name"
+msgstr ""
+
+msgid "Short code to insert in the editor"
+msgstr ""
+
+msgid "Location on page"
+msgstr ""
+
+msgid "At the insertion point of the short code"
+msgstr ""
+
+msgid "In footer site"
+msgstr ""
+
+msgid "Code"
+msgstr ""
+
+msgid "In this field you can insert any HTML and / or PHP code to display on Your site"
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Save changes!!!"
+msgstr ""

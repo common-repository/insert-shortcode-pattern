@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: insert-shortcode-pattern\n"
+"Last-Translator: 3vweb <mail@3v-web.ru>\n"
+"Language-Team: insert shortcode pattern\n"
+"Language: ru\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_attr__;esc_attr_e;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#. Description of the plugin/theme
+msgid "This plugin allows you to create templates and insert the specified text on the page using a short code. As a placement, you can specify the basement of the site, or in the place of insertion of a short code on the page. As a template, you can use any HTML tags (including javascript) without violating the integrity, as well as PHP code."
+msgstr "Этот плагин позволяет создавать шаблоны и вставлять заданный текст на страницу при помощи использования короткого кода. В качестве места размещения можно указать подвал сайта, либо в месте вставки короткого кода на странице. В качестве шаблона можно использовать любые HTML теги (в т.ч. javascript) без нарушения целостности, а также PHP код."
+
+msgid "The required «name» parameter is not passed"
+msgstr "Обязательный параметр «name» не задан"
+
+msgid "Key «%s» not found :("
+msgstr "Ключ «%s» не найден :("
+
+msgid "Security check failed, please try again"
+msgstr "Не пройдена проверка безопасности, попробуйте еще раз"
+
+msgid "Only English letters and numbers are allowed in the «Unique name» field"
+msgstr "В поле «Уникальное название» разрешено использовать только английские буквы и цифры"
+
+msgid "This name already exists, create a unique name"
+msgstr "Такое название уже существует, создайте уникальное название"
+
+msgid "Unable to write file, please try again"
+msgstr "Не удалось сделать запись фаил, повторите попытку еще раз"
+
+msgid "Saved"
+msgstr "Настройки сохранены"
+
+msgid "Error"
+msgstr "Ошибка"
+
+msgid "Add a new"
+msgstr "Добавить новый"
+
+msgid "Unique name"
+msgstr "Уникальное имя"
+
+msgid "Only English letters, numbers and signs are allowed «-»"
+msgstr "Разрешены только английские буквы, цифры и знак «-»"
+
+msgid "Specified name"
+msgstr "Укажите наименование"
+
+msgid "Short code to insert in the editor"
+msgstr "Короткий код для вставки в редакторе"
+
+msgid "Location on page"
+msgstr "Расположение на странице"
+
+msgid "At the insertion point of the short code"
+msgstr "В месте вставки короткого кода"
+
+msgid "In footer site"
+msgstr "В подвале сайта"
+
+msgid "Code"
+msgstr "Код"
+
+msgid "In this field you can insert any HTML and / or PHP code to display on Your site"
+msgstr "В этом поле Вы можете вставить любой HTML и/или PHP код для отображения на Вашем сайте"
+
+msgid "Save"
+msgstr "Сохранить"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Save changes!!!"
+msgstr "Сохраните изменения!!!"
